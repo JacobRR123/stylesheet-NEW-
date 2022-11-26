@@ -1,0 +1,16 @@
+.test {
+    font-size: medium;
+    line-height: normal;
+    font-family: sans-serif;
+}
+.center {
+      text-align: center;
+}
+.paragraph {
+    font-size: medium;
+    line-height: normal;
+    font-family: sans-serif;
+}
+.error-message {
+    color: red;
+}
